@@ -1,4 +1,1 @@
-puts "Salut Jérémy"
-
- 
-
+puts "Hello Jeremy"
